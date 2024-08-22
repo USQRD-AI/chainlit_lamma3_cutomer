@@ -1,4 +1,4 @@
-#  Chainlit and Llama3.1 Chatbot in less than 2 minutes
+#  Chainlit and Llama3.1 
 
 ![Server Chainlit Demo](mlx-chainlit.gif)
 
